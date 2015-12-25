@@ -1,0 +1,24 @@
+body {
+	background: #2e2e2e;
+	color: #fff;
+}
+
+.box {
+	width: 19%;
+	padding: 0px;
+	height: 70px;
+	box-shadow: 2px 1px rgba(0,0,0,0.3);
+	background: #fff;
+	margin: 5px 0% 5px 1%;
+	float: left;
+}
+
+.box .color {
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+
+.box:hover {
+	opacity: 0.4;
+}
